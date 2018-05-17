@@ -1,43 +1,120 @@
 \section{Introduction}
 \label{sec:intro} 
 
-According to information from a review of requirement engineering issues~\cite{1Review}, challenges regarding requirements quality, communication gap between teams in development process, etc. bring about plenty impediments into system development and may result in great increase of resources from industry. Moreover, a research of industry needs~\cite{16NaPiRe} provides a statistics of failure projects also causing by the mentioned problems among another.
+According a review on requirement engineering issues~\cite{1Review}, challenges
+regarding e.g. requirements quality, communication gaps between teams in
+development process, among others, bring about impediments to system development
+and may result overbudgeted projects. Additionally, Fernandez \cite{16NaPiRe}
+provides statistics on failed projects causing by the problems mentioned above,
+among others.
 
-In this paper we provide a description of \cbc (CBC), that suggests a solution for handling the problems with concern to the quality of system requirements. \cc brings textual unstructured requirements to a consistent view categorizing them by their characteristics. Moreover, \cc supports a method for transforming requirements into less complex composition and for reviewing them in a more precise way. By that means,\cbc improves qualitative aspect of requirements.
+\levi{this part should be extended for more context}
 
-This concept embraces general requirements categorization advocated in the scientific society and includes experience gathered by the industry in software-intensive systems development. On practice, incoming document for system developers can be system requirements in the form of text (use cases, specifications with detailed lines of description or bulleted list, etc.), which are usually poor structured and error-prone. The list of most popular requirements management tools in the industry community include DOORS~\cite{DOORS}, Requirement Quality Suite (RQS)~\cite{12RQS}, BTC. Alternatively, to bring the requirements into formalized view, system designers can apply patterns by using languages such as EARS~\cite{13EARS} or UML~\cite{14UML} etc. %However, this approach doesn't give flexibility in terms of requirements engineering and provides no guidance for a user  (requirements engineer, reviewer or developer). 
+In this paper we provide a description of our framework\levi{add name here},
+that suggests a solution for improving the quality of system requirements.
+\cc brings textual unstructured requirements to a consistent view categorizing
+them by their characteristics. Moreover, \cc supports a method for transforming
+requirements into less complex composition and for reviewing them in a more
+precise way. By that means,\cbc improves qualitative aspect of requirements.
 
-In contrary, the \cbc categorization-based provides a method with noticeable degree of freedom from any particular tools for requirements engineering and reviewing process. It allows to work with unstructured or unorganized textual requirements by adhering incrementally categories to them. 
+This concept embraces general requirements categorization advocated in the
+scientific society and includes experience gathered by the industry in
+software-intensive systems development. On practice, incoming document for
+system developers can be system requirements in the form of text (use cases,
+specifications with detailed lines of description or bulleted list, etc.), which
+are usually poor structured and error-prone. The list of most popular
+requirements management tools in the industry community include
+DOORS~\cite{DOORS}, Requirement Quality Suite (RQS)~\cite{12RQS}, BTC.
+Alternatively, to bring the requirements into formalized view, system designers
+can apply patterns by using languages such as EARS~\cite{13EARS} or
+UML~\cite{14UML} etc. %However, this approach doesn't give flexibility in terms
+of requirements engineering and provides no guidance for a user  (requirements
+engineer, reviewer or developer).
 
-\cbc has been incarnated as a framework within \autof and named \asp. Here \asp represent requirements categories with regards to their characteristics. In \af  the \asp have been implemented as templates supporting main facets of the requirements. For instance, \textit{Signal aspect} categories the requirement, which provides a signal definition. This \textit{aspect} captures information about the signal type and range in the template. More detailed description of \asp as an instrument of \cc provides further in \autoref{sec:cbcinaf}. 
+In contrary, the \cbc categorization-based provides a method with noticeable
+degree of freedom from any particular tools for requirements engineering and
+reviewing process. It allows to work with unstructured or unorganized textual
+requirements by adhering incrementally categories to them.
+
+\cbc has been incarnated as a framework within \autof and named \asp. Here \asp
+represent requirements categories with regards to their characteristics. In \af 
+the \asp have been implemented as templates supporting main facets of the
+requirements. For instance, \textit{Signal aspect} categories the requirement,
+which provides a signal definition. This \textit{aspect} captures information
+about the signal type and range in the template. More detailed description of
+\asp as an instrument of \cc provides further in \autoref{sec:cbcinaf}.
 
 \subsection{Motivation}
 \label{sec:Motivation} 
-Motivation for this research is to elaborate and investigate \cbc for structuring textual requirements, that helps in solving the problems regarding requirements quality. Additionally, to study an impact of category-based approach on requirements development process. This motivation leads to the following research questions: 
+Motivation for this research is to elaborate and investigate \cbc for
+structuring textual requirements, that helps in solving the problems regarding
+requirements quality. Additionally, to study an impact of category-based
+approach on requirements development process. This motivation leads to the
+following research questions:
 
 \textbf{Research question 1:} \textit{How to measure a quality of requirements?}
 
 \textbf{Research question 2:} \textit{How to develop a set of requirements, which corresponds to requirements of high level quality?}
 
-Evaluation of a proposed method in requirements engineering field is a challenging task, which requires an effort from a researcher due to its subjective nature~\cite{16NaPiRe}. In this study raises the question of appropriate and adequate evaluation techniques and methods for the concept assessment, which allow to demonstrate the categorization-based concept feasibility on practice. The research will cover estimation of requirements quality with outcomes comparison before and after application of the categorization-based concept.
+Evaluation of a proposed method in requirements engineering field is a
+challenging task, which requires an effort from a researcher due to its
+subjective nature~\cite{16NaPiRe}. In this study raises the question of
+appropriate and adequate evaluation techniques and methods for the concept
+assessment, which allow to demonstrate the categorization-based concept
+feasibility on practice. The research will cover estimation of requirements
+quality with outcomes comparison before and after application of the
+categorization-based concept.
 
 Based on these questions we have formulated these hypotheses:
 
-\textbf{Hypothesis 1:} The \cbc for structuring textual requirements can improve their quality. The \cc appears as a general concept, which provides independence from a certain chain of tools. It grants a user flexibility in selecting categories with an appropriate level of granularity. 
+\textbf{Hypothesis 1:} The \cbc for structuring textual requirements can improve
+their quality. The \cc appears as a general concept, which provides independence
+from a certain chain of tools. It grants a user flexibility in selecting
+categories with an appropriate level of granularity.
 
-\textbf{Hypothesis 2:} The \cbc for structuring textual requirements serves to support requirements engineering process and procedure of review. It provides a common instrument for all roles of system development process. It maintains a traceability between requirements on all stages of system design. The concept works with requirements meta-data seamlessly integrating it through the whole development process and thereby, improves quality of requirements.
+\textbf{Hypothesis 2:} The \cbc for structuring textual requirements serves to
+support requirements engineering process and procedure of review. It provides a
+common instrument for all roles of system development process. It maintains a
+traceability between requirements on all stages of system design. The concept
+works with requirements meta-data seamlessly integrating it through the whole
+development process and thereby, improves quality of requirements.
 
-%Importance of requirements quality extremely rises for safety-critical systems. An example is an avionics domain, where risk of error should be minimized from the initial stage of development process, during requirements elicitation and analysis. Otherwise, the flaw can affect a system design on different phases of the development process and results in crucial consequences.
-%The categorization-based concept incarnates a core of common categorizations and go far ahead guiding a process for requirements engineering activities in a project. This approach provides a possibility for a user to compose a set of appropriate categories with different granularity of any category in the set.
-%
-%Moreover, the idea of the categorization-based process is general and allows a user to be independent from specific tools. It can be applied within already known for a user chain of tools and thereby, save costs and time for a project realization instead of training employees of new extra tools. 
-%
-%
-%Requirements are categorized by their characteristics. Therefore, one or more categories can be attached to a single requirement, depending on the requirement's composition. Number of applied categories increases with rising complexity of the considered requirement. In this case, requirement with a range of categories should be splitted into several simplified requirements with less number of attached categories, if it's possible with respect to context.
-%
-%User can define, which categories correspond to every requirement. Moreover, \cbc provides a certain degree of freedom for user to choose a granularity of every attached category. In other words, user makes a decision, how detailed the requirements should be considered and categorized. After analysis of whole scope of requirements, every requirement should be categorized.  
-%
-%Output of this procedure is structured and more consistent requirements with attached set of corresponding categories. This set constitutes a new artifact in system development process, that represents a full structure of the requirements. Such structured requirements are more precise and unambiguous. Thanks for that, reviewing process becomes easier and more accurate; risk of mistakes in system design declines due to better legibility of requirements. We can conclude, that quality of requirements increases with applying \cbc.
-%
-%
-%The idea behind categorization-based concept arises from general requirements categorization and goes ahead with the arrangement of requirements in formal structure categorizing them by their characteristics and thereby, forming an attached combination of the categories (\textit{aspects}). This combination of \textit{aspects} reflects a structure of the requirements scope and constitutes a new Artifact.  
+% Importance of requirements quality extremely rises for safety-critical
+% systems. An example is an avionics domain, where risk of error should be
+% minimized from the initial stage of development process, during requirements
+% elicitation and analysis. Otherwise, the flaw can affect a system design on
+% different phases of the development process and results in crucial
+% consequences.
+% The categorization-based concept incarnates a core of common categorizations
+% and go far ahead guiding a process for requirements engineering activities in
+% a project. This approach provides a possibility for a user to compose a set of
+% appropriate categories with different granularity of any category in the set.
+%  Moreover, the idea of the categorization-based process is general and allows
+% a user to be independent from specific tools. It can be applied within already
+% known for a user chain of tools and thereby, save costs and time for a project
+% realization instead of training employees of new extra tools.
+%   Requirements are categorized by their characteristics. Therefore, one or
+% more categories can be attached to a single requirement, depending on the
+% requirement's composition. Number of applied categories increases with rising
+% complexity of the considered requirement. In this case, requirement with a
+% range of categories should be splitted into several simplified requirements
+% with less number of attached categories, if it's possible with respect to
+% context.
+%  User can define, which categories correspond to every requirement. Moreover,
+% \cbc provides a certain degree of freedom for user to choose a granularity of
+% every attached category. In other words, user makes a decision, how detailed
+% the requirements should be considered and categorized. After analysis of whole
+% scope of requirements, every requirement should be categorized.
+%  Output of this procedure is structured and more consistent requirements with
+% attached set of corresponding categories. This set constitutes a new artifact
+% in system development process, that represents a full structure of the
+% requirements. Such structured requirements are more precise and unambiguous.
+% Thanks for that, reviewing process becomes easier and more accurate; risk of
+% mistakes in system design declines due to better legibility of requirements.
+% We can conclude, that quality of requirements increases with applying \cbc.
+%   The idea behind categorization-based concept arises from general
+% requirements categorization and goes ahead with the arrangement of
+% requirements in formal structure categorizing them by their characteristics
+% and thereby, forming an attached combination of the categories
+% (\textit{aspects}). This combination of \textit{aspects} reflects a structure
+% of the requirements scope and constitutes a new Artifact.
