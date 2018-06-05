@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  1 JUN 2018 15:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  5 JUN 2018 12:24
 entering extended mode
 **./REworkshop_ReqQuality.tex
 (REworkshop_ReqQuality.tex
@@ -115,8 +115,174 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \IEEEPARstartletwidth=\dimen125
 \c@IEEEbiography=\count93
 \@IEEEtranrubishbin=\box27
-) ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty
-"
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bookma
+rk.sty"
+Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfe
+scape.sty"
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxc
+mds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdft
+excmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infw
+arerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\iflu
+atex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpd
+f.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxet
+ex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvt
+ex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperr
+ef.sty"
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobs
+ub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobs
+ub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package hobsub Info: Skipping package `pdfescape' (already loaded).
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhoo
+k.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvopti
+ons.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen126
+\Hy@linkcounter=\count94
+\Hy@pagecounter=\count95
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc
+.def"
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count96
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperr
+ef.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count97
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen127
+\Fld@menulength=\count98
+\Field@Width=\dimen128
+\Fld@charsize=\dimen129
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count99
+\c@Item=\count100
+\c@Hfootnote=\count101
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdfte
+x.def"
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count102
+\c@bookmark@seq@number=\count103
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunf
+ilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip44
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bkm-pd
+ftex.def"
+File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+\BKM@id=\count104
+))
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
@@ -125,11 +291,6 @@ Package: cite 2015/02/27  v 5.5
 cx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval
-.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
-)
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphi
 cs.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
@@ -148,8 +309,8 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 ftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen126
-\Gin@req@width=\dimen127
+\Gin@req@height=\dimen130
+\Gin@req@width=\dimen131
 )
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.s
 ty"
@@ -461,6 +622,8 @@ Now handling font encoding OMX ...
 ... no UTF-8 mapping file for font encoding OMX
 Now handling font encoding U ...
 ... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
    defining Unicode char U+00A9 (decimal 169)
    defining Unicode char U+00AA (decimal 170)
    defining Unicode char U+00AE (decimal 174)
@@ -475,7 +638,7 @@ Now handling font encoding U ...
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath
 .sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip44
+\@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
 
@@ -487,51 +650,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
-\ex@=\dimen128
+\ex@=\dimen132
 ))
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.
 sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen129
+\pmbraise@=\dimen133
 )
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.
 sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count94
+\inf@bad=\count105
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count95
-\leftroot@=\count96
+\uproot@=\count106
+\leftroot@=\count107
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count97
-\DOTSCASE@=\count98
+\classnum@=\count108
+\DOTSCASE@=\count109
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
-\big@size=\dimen130
+\big@size=\dimen134
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count99
-\c@MaxMatrixCols=\count100
-\dotsspace@=\muskip10
-\c@parentequation=\count101
-\dspbrk@lvl=\count102
+\macc@depth=\count110
+\c@MaxMatrixCols=\count111
+\dotsspace@=\muskip11
+\c@parentequation=\count112
+\dspbrk@lvl=\count113
 \tag@help=\toks19
-\row@=\count103
-\column@=\count104
-\maxfields@=\count105
+\row@=\count114
+\column@=\count115
+\maxfields@=\count116
 \andhelp@=\toks20
-\eqnshift@=\dimen131
-\alignsep@=\dimen132
-\tagshift@=\dimen133
-\tagwidth@=\dimen134
-\totwidth@=\dimen135
-\lineht@=\dimen136
+\eqnshift@=\dimen135
+\alignsep@=\dimen136
+\tagshift@=\dimen137
+\tagwidth@=\dimen138
+\totwidth@=\dimen139
+\lineht@=\dimen140
 \@envbody=\toks21
-\multlinegap=\skip45
-\multlinetaggap=\skip46
+\multlinegap=\skip46
+\multlinetaggap=\skip47
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
@@ -539,170 +702,108 @@ LaTeX Info: Redefining \] on input line 2818.
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
 "
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
-\col@sep=\dimen137
-\extrarowheight=\dimen138
+\col@sep=\dimen141
+\extrarowheight=\dimen142
 \NC@list=\toks23
-\extratabsurround=\skip47
-\backup@length=\skip48
+\extratabsurround=\skip48
+\backup@length=\skip49
 )
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperr
-ef.sty"
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssym
+b.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobs
-ub-hyperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfon
+ts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box30
+\UL@hyphenbox=\box31
+\UL@skip=\skip50
+\UL@hook=\toks24
+\UL@height=\dimen143
+\UL@pe=\count117
+\UL@pixel=\dimen144
+\ULC@box=\box32
+Package: ulem 2012/05/18
+\ULdepth=\dimen145
+)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.s
+ty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobs
-ub-generic.sty"
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\co
+lor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxet
-ex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhoo
-k.sty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvopti
-ons.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-)
-\@linkdim=\dimen139
-\Hy@linkcounter=\count106
-\Hy@pagecounter=\count107
-
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc
-.def"
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-)
-\Hy@SavedSpaceFactor=\count108
-
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperr
-ef.cfg"
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count109
-
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-\Urlmuskip=\muskip11
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen140
-\Fld@menulength=\count110
-\Field@Width=\dimen141
-\Fld@charsize=\dimen142
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring OFF on input line 6389.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count111
-\c@Item=\count112
-\c@Hfootnote=\count113
-)
-Package hyperref Info: Driver (autodetected): hpdftex.
-
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdfte
-x.def"
-File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count114
-\c@bookmark@seq@number=\count115
-
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunf
-ilecheck.sty"
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip49
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (REworkshop_ReqQuality.aux)
 \openout1 = `REworkshop_ReqQuality.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 249.
-LaTeX Font Info:    ... okay on input line 249.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 249.
-LaTeX Font Info:    ... okay on input line 249.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 249.
-LaTeX Font Info:    ... okay on input line 249.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 249.
-LaTeX Font Info:    ... okay on input line 249.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 249.
-LaTeX Font Info:    ... okay on input line 249.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 249.
-LaTeX Font Info:    ... okay on input line 249.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 249.
-LaTeX Font Info:    ... okay on input line 249.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 -- Lines per column: 56 (exact).
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring OFF on input line 75.
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\namere
+f.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gett
+itlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count118
+)
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf
 .mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count116
-\scratchdimen=\dimen143
-\scratchbox=\box30
-\nofMPsegments=\count117
-\nofMParguments=\count118
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count119
-\MPscratchDim=\dimen144
-\MPnumerator=\count120
-\makeMPintoPDFobject=\count121
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count119
+\scratchdimen=\dimen146
+\scratchbox=\box34
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen147
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks26
 )
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstop
 df-base.sty"
@@ -717,29 +818,33 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.jpeg,.png,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
+) (Intro.tex) (Solution.tex
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 7.
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.f
+d"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-\AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 249.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <7> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 7.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
 
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\namere
-f.sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gett
-itlestring.sty"
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.f
+d"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-\c@section@level=\count122
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+
+("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
+d"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) (RelatedWork.tex) (Conclusion.tex) (REworkshop_ReqQuality.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 24.
+
 )
-LaTeX Info: Redefining \ref on input line 249.
-LaTeX Info: Redefining \pageref on input line 249.
-LaTeX Info: Redefining \nameref on input line 249.
- (REworkshop_ReqQuality.out) (REworkshop_ReqQuality.out)
-\@outlinefile=\write3
-\openout3 = `REworkshop_ReqQuality.out'.
-
-
-(Intro.tex) (RelatedWork.tex) (Solution.tex) (REworkshop_ReqQuality.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -751,41 +856,37 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 488.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
 [1{C:/Users/chuprina/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 488.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
 
 (REworkshop_ReqQuality.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 488.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 488.
-Package rerunfilecheck Info: File `REworkshop_ReqQuality.out' has not changed.
-(rerunfilecheck)             Checksum: 8F3D528DC944B6B59DB900899C72B9F3;95.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 488.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 121.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
- 6909 strings out of 493303
- 105367 string characters out of 3128480
- 198407 words of memory out of 3000000
- 10377 multiletter control sequences out of 15000+200000
- 35507 words of font info for 71 fonts, out of 3000000 for 9000
+ 8061 strings out of 493303
+ 120941 string characters out of 3128480
+ 212478 words of memory out of 3000000
+ 11477 multiletter control sequences out of 15000+200000
+ 36981 words of font info for 74 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 28i,7n,28p,861b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,8n,35p,448b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
-enc}<C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/
-utmb8a.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
-/times/utmbi8a.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmr8a.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/urw/times/utmri8a.pfb>
-Output written on REworkshop_ReqQuality.pdf (1 page, 53427 bytes).
+enc}<C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/symbols/msam10.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/chuprina/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/chuprina/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/chuprina/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on REworkshop_ReqQuality.pdf (1 page, 74999 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 80 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
