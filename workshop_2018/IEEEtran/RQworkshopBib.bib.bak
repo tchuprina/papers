@@ -122,7 +122,7 @@
   year        = {2014},
 }
 
-@Article{FARBEY199060,
+@Article{FARBEY:1990,
   author   = {B Farbey},
   title    = {Software quality metrics: considerations about requirements and requirement specifications},
   journal  = {Information and Software Technology},
@@ -135,6 +135,20 @@
   doi      = {https://doi.org/10.1016/0950-5849(90)90047-U},
   keywords = {software quality, software metrics, requirements, requirement specifications},
   url      = {http://www.sciencedirect.com/science/article/pii/095058499090047U},
+}
+
+@Article{Fernandez2016,
+  author        = {Daniel M{\'{e}}ndez Fern{\'{a}}ndez and Stefan Wagner and Marcos Kalinowski and Michael Felderer and Priscilla Mafra and Antonio Vetro and Tayana Conte and M.{-}T. Christiansson and Des Greer and Casper Lassenius and Tomi M{\"{a}}nnist{\"{o}} and M. Nayabi and Markku Oivo and Birgit Penzenstadler and Dietmar Pfahl and Rafael Prikladnicki and G{\"{u}}nther Ruhe and Andr{\'{e}} Schekelmann and S. Sen and Rodrigo O. Sp{\'{\i}}nola and Ahmet Tuzcu and Jose Luis de la Vara and Roel Wieringa},
+  title         = {Naming the Pain in Requirements Engineering: Contemporary Problems, Causes, and Effects in Practice},
+  journal       = {CoRR},
+  year          = {2016},
+  volume        = {abs/1611.10288},
+  archiveprefix = {arXiv},
+  bibsource     = {dblp computer science bibliography, https://dblp.org},
+  biburl        = {https://dblp.org/rec/bib/journals/corr/Fernandez0KFMVC16},
+  eprint        = {1611.10288},
+  timestamp     = {Wed, 07 Jun 2017 14:40:27 +0200},
+  url           = {http://arxiv.org/abs/1611.10288},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
