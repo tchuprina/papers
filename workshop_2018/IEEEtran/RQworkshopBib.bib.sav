@@ -14,7 +14,7 @@
   url       = {https://doi.org/10.1109/ISRE.1995.512562},
 }
 
-@InProceedings{Moody2003,
+@InProceedings{conf/ecisMoody03a,
   author    = {Moody, Daniel L.},
   title     = {The method evaluation model: a theoretical model for validating information systems design methods.},
   booktitle = {ECIS},
