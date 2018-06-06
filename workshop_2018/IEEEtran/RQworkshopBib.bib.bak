@@ -151,4 +151,32 @@
   url           = {http://arxiv.org/abs/1611.10288},
 }
 
+@PhdThesis{Mund:2017,
+  author = {Jakub Mund},
+  title  = {Measurement-based Quality Assessment of Requirements Specifications for Software-Intensive Systems},
+  school = {Technical University Munich},
+  year   = {2017},
+}
+
+@PhdThesis{Femmer:2017,
+  author = {Henning Femmer},
+  title  = {Requirements Engineering Artifact Quality: Definition and Control},
+  school = {Technical University Munich},
+  year   = {2017},
+}
+
+@TechReport{ISO/IEC/IEEE:29148:2011,
+  title = {29148:2011-Systems and software engineering - Life cycle processes - Requirements engineering},
+  year  = {2011},
+}
+
+@Book{Lamsweerde:2009,
+  title     = {Requirements Engineering: From System Goals to UML Models to Software Specifications},
+  publisher = {Wiley Publishing},
+  year      = {2009},
+  author    = {van Lamsweerde, Axel},
+  edition   = {1st},
+  isbn      = {0470012706, 9780470012703},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

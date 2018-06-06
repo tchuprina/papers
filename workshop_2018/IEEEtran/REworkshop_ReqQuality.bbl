@@ -42,4 +42,18 @@ B.~Farbey, ``Software quality metrics: considerations about requirements and
   \url{http://www.sciencedirect.com/science/article/pii/095058499090047U}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Mund:2017}
+J.~Mund, ``Measurement-based quality assessment of requirements specifications
+  for software-intensive systems,'' Ph.D. dissertation, Technical University
+  Munich, 2017.
+
+\bibitem{Femmer:2017}
+H.~Femmer, ``Requirements engineering artifact quality: Definition and
+  control,'' Ph.D. dissertation, Technical University Munich, 2017.
+
+\bibitem{Lamsweerde:2009}
+A.~van Lamsweerde, \emph{Requirements Engineering: From System Goals to UML
+  Models to Software Specifications}, 1st~ed.\hskip 1em plus 0.5em minus
+  0.4em\relax Wiley Publishing, 2009.
+
 \end{thebibliography}
