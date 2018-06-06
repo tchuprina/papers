@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  5 JUN 2018 17:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  5 JUN 2018 19:13
 entering extended mode
 **./REworkshop_ReqQuality.tex
 (REworkshop_ReqQuality.tex
@@ -818,24 +818,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
 [1{C:/Users/chuprina/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
 
 (REworkshop_ReqQuality.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
 Package rerunfilecheck Info: File `REworkshop_ReqQuality.out' has not changed.
-(rerunfilecheck)             Checksum: D75339611683BF9C50D82971C95C72D6;350.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
+(rerunfilecheck)             Checksum: 0B29CDA7892F585A8BC194D332557E0A;351.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
  7774 strings out of 493303
  115701 string characters out of 3128480
- 209419 words of memory out of 3000000
+ 209420 words of memory out of 3000000
  11207 multiletter control sequences out of 15000+200000
  37994 words of font info for 79 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -847,7 +847,7 @@ type1/urw/times/utmb8a.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/urw/times/utmbi8a.pfb><C:/Users/chuprina/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on REworkshop_ReqQuality.pdf (1 page, 69633 bytes).
+Output written on REworkshop_ReqQuality.pdf (1 page, 68627 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
