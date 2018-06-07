@@ -1,24 +1,42 @@
 \section{Related Work}
 \label{sec:relatedwork} 
 
-\subsection{what's quality means?}
+\subsection{What does ``quality'' mean?}
 
-Despite on multiple publications about requirements quality and its assessment, the ``quality'' as a term is still subjective.~\cite{Mund:2017},~\cite{Femmer:2017}.
-Industry standards [ISO/IEC/IEEE:29148:201] prescribe characteristics and criteria, which presumed effective for improving quality of requirements e.g completeness, unambiguity for sets of requirements and difficulty, dependency for a single requirement. Moreover, Lamsweerde provides possible defect-based checklist~\cite{Lamsweerde:2009}.
-Now exists a vast majority of quality definitions:
-\begin{enumerate}
-	\item in industry Standards - set of attributes such as completeness, unambiguity... [ISO/IEC/IEEE-29148];
-	\item in scientific point of view, [Lamsweerde] gives a general list of characteristics, [Pohl] proposed a framework defining dimensions of quality (• the specification dimension, • the representation dimension, the agreement dimension.) ;
-	\item check requirements language for lacking of errors, defects, ambiguity and possible reasons for incomprehension [];
-	\item different kind of quality models such as activity-based[10], natural-language requirements specifications[7] %(activity, stupid!)
-\end{enumerate}
+Despite on multiple publications about requirements quality and its assessment, 
+the term ``quality'' is still subjective.~\cite{Mund:2017},~\cite{Femmer:2017}. 
+Industry standards~\cite{ISO/IEC/IEEE:2011} specify characteristics and criteria, 
+which presumed effective for improving the quality e.g completeness, unambiguity and others. 
+Additionally, researchers provide several types of quality definition and methods for its assessment. 
+In example, Lamsweerde provides a defect-based checklist to inspect requirements for possible flaws 
+and errors in ~\cite{Lamsweerde:2009}; Pohl proposes a framework defining dimensions of quality: 
+the specification dimension, the representation dimension, the agreement dimension~\cite{POHL:1994}. 
+Another approach implies syntactic check of the requirements text for improving its comprehension, 
+correctness, ambiguity and other akin characteristics e.g.~\cite{Ferrari:2014},~\cite{Berry:2006}.
+All these metrics intend to intrinsic inspection of requirements. In comparison with them, activity-based 
+quality models shift their approach from inherent properties to a context of process, and represent 
+a meta quality model~\cite{Wagner:2012},~\cite{Femmer:2015}. Furthermore, the "quality question" also turns 
+to a consideration of how the requirements quality impacts to project success and the relation between 
+them in scientific surrounding~\cite{Emam:1995},~\cite{Kamata:2007}, so as among practitioners~\cite{BeattyHokanson:2014}.
+
+The presented in this paper metrics consider generally requirements artifact for its maturity and a process 
+of adjusting the requirements at RE and implementation phases, in a quantitative way, a posteriori.
 
 
-\subsection{Metrics for quality measure}
-\begin{itemize}
-	\item methodology for context-specific RE artifact quality measuring has in its base an activity-based quality model [activity, stupid!] - brief description
-	\item the mentioned attributes should be satisfied 
-	\item some researchers shift their look to product quality measurement e.g [measuring success], however 
-\end{itemize}
-
-All these metrics intend to intrinsic inspection of requirements. In contrast to them, we propose the quantitative metrics for assessment of requirements quality
+%Now exists a vast majority of quality definitions:
+%\begin{enumerate}
+	%\item in industry Standards - set of attributes such as completeness, unambiguity... [ISO/IEC/IEEE-29148];
+	%\item in scientific point of view, [Lamsweerde] gives a general list of characteristics, [Pohl] proposed a framework defining dimensions of quality (• the specification dimension, • the representation dimension, the agreement dimension.);
+	%\item check requirements language for lacking of errors, defects, ambiguity and possible reasons for incomprehension [];
+	%\item different kind of quality models such as activity-based[10], natural-language requirements specifications[7] %(activity, stupid!)
+%\end{enumerate}
+%
+%
+%\subsection{Metrics for quality measure}
+%\begin{itemize}
+	%\item methodology for context-specific RE artifact quality measuring has in its base an activity-based quality model [activity, stupid!] - brief description
+	%\item the mentioned attributes should be satisfied 
+	%\item some researchers shift their look to product quality measurement e.g [measuring success], however 
+%\end{itemize}
+%
+%All these metrics intend to intrinsic inspection of requirements. In contrast to them, we propose the quantitative metrics for assessment of requirements quality

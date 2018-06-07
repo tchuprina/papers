@@ -117,7 +117,7 @@
 
 @TechReport{BeattyHokanson:2014,
   author      = {Joy Beatty and Candase Hokanson},
-  title       = {The True Measure of Requirements Quality},
+  title       = {Project Value Delivered. The True Measure of Requirements Quality},
   institution = {The Magazine for RE Professionals from IREB},
   year        = {2014},
 }
@@ -165,9 +165,14 @@
   year   = {2017},
 }
 
-@TechReport{ISO/IEC/IEEE:29148:2011,
-  title = {29148:2011-Systems and software engineering - Life cycle processes - Requirements engineering},
-  year  = {2011},
+@Article{ISO/IEC/IEEE:2011,
+  title    = {ISO/IEC/IEEE International Standard - Systems and software engineering -- Life cycle processes --Requirements engineering},
+  journal  = {ISO/IEC/IEEE 29148:2011(E)},
+  year     = {2011},
+  pages    = {1-94},
+  month    = {Dec},
+  doi      = {10.1109/IEEESTD.2011.6146379},
+  keywords = {IEC standards;IEEE standards;ISO standards;formal specification;formal verification;systems analysis;systems engineering;ISO/IEC 12207;ISO/IEC 15288;ISO/IEC/IEEE 29148:2011;management process;requirement engineering;software engineering;software life cycle process;software product;system engineering;IEEE standards;Product life cycle management;Software development;Software engineering;System analysis and design;ConOps;OpsCon;SyRS;buyer;characteristics;concept of operation;concepts of operations document;contract;customer;operational concept;prototyping;requirement;software requirements specification;supplier;system;system requirements specification},
 }
 
 @Book{Lamsweerde:2009,
@@ -177,6 +182,58 @@
   author    = {van Lamsweerde, Axel},
   edition   = {1st},
   isbn      = {0470012706, 9780470012703},
+}
+
+@Article{POHL:1994,
+  author  = {Klaus Pohl},
+  title   = {The three dimensions of requirements engineering: A framework and its applications},
+  journal = {Information Systems},
+  year    = {1994},
+  volume  = {19},
+  number  = {3},
+  pages   = {243 - 258},
+  issn    = {0306-4379},
+  note    = {Fifth International Conference on Advanced Information Systems Engineering (CAISE '93)},
+  doi     = {https://doi.org/10.1016/0306-4379(94)90044-2},
+  url     = {http://www.sciencedirect.com/science/article/pii/0306437994900442},
+}
+
+@Conference{Ferrari:2014,
+  author    = {Ferrari, Alessio and Lipari, Giuseppe and Gnesi, Stefania and O Spagnolo, Giorgio},
+  title     = {Pragmatic Ambiguity Detection in Natural Language Requirements},
+  booktitle = {2014 IEEE 1st International Workshop on Artificial Intelligence for Requirements Engineering, AIRE 2014 - Proceedings},
+  year      = {2014},
+  month     = {08},
+}
+
+@Proceedings{Berry:2006,
+  title  = {A New Quality Model for Natural Language Requirements Specifications},
+  year   = {2006},
+  author = {Daniel M. Berry and Antonio Bucchiarone and Stefania Gnesi and Gianluca Trentanni},
+}
+
+@InProceedings{Wagner:2012,
+  author    = {S. Wagner and K. Lochmann and L. Heinemann and M. Kläs and A. Trendowicz and R. Plösch and A. Seidi and A. Goeb and J. Streit},
+  title     = {The Quamoco product quality modelling and assessment approach},
+  booktitle = {2012 34th International Conference on Software Engineering (ICSE)},
+  year      = {2012},
+  pages     = {1133-1142},
+  month     = {June},
+  doi       = {10.1109/ICSE.2012.6227106},
+  issn      = {0270-5257},
+  keywords  = {Java;software metrics;software quality;C# systems;ISO 25010 quality attributes;Java systems;Quamoco product quality assessment;Quamoco product quality modelling;abstract quality aspects;abstract quality attributes;concrete measurements;concrete quality assessments;meta quality model;product factor;quality base model;quality factors;software quality models;Biological system modeling;Concrete;Object oriented modeling;Quality assessment;Software quality;Unified modeling language;empirical validation;meta model;quality assessment;quality model},
+}
+
+@InProceedings{Kamata:2007,
+  author    = {M. I. Kamata and T. Tamai},
+  title     = {How Does Requirements Quality Relate to Project Success or Failure?},
+  booktitle = {15th IEEE International Requirements Engineering Conference (RE 2007)},
+  year      = {2007},
+  pages     = {69-78},
+  month     = {Oct},
+  doi       = {10.1109/RE.2007.31},
+  issn      = {1090-705X},
+  keywords  = {Application software;Companies;Computer industry;Cost function;Laboratories;Programming;Project management;Software development management;Software quality;Statistical analysis},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

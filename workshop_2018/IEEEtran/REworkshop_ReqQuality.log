@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  6 JUN 2018 18:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  7 JUN 2018 18:47
 entering extended mode
 **./REworkshop_ReqQuality.tex
 (REworkshop_ReqQuality.tex
@@ -793,29 +793,20 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
- (Intro.tex) (Solution.tex) (RelatedWork.tex
-Underfull \hbox (badness 1596) in paragraph at lines 13--14
-[]\OT1/ptm/m/n/10 different kind of qual-ity mod-els such as activity-
- []
-
-
-Underfull \hbox (badness 5878) in paragraph at lines 13--14
-\OT1/ptm/m/n/10 based[10], natural-language re-quire-ments spec-i-fi-ca-
- []
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+ (Intro.tex) (RelatedWork.tex) (Solution.tex) (Conclusion.tex)
+(REworkshop_ReqQuality.bbl
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 d"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) (Conclusion.tex) (REworkshop_ReqQuality.bbl [1{C:/Users/chuprina/AppData/Loc
-al/MiKTeX/2.9/pdftex/config/pdftex.map}
+) [1{C:/Users/chuprina/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ])
@@ -839,28 +830,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
 Package rerunfilecheck Info: File `REworkshop_ReqQuality.out' has not changed.
-(rerunfilecheck)             Checksum: 2967B39A57BFC38112E423F5CECB4A13;499.
+(rerunfilecheck)             Checksum: A81C79AC7C541584307E2C3F8B9C8C4F;428.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 7795 strings out of 493303
- 115956 string characters out of 3128480
- 211521 words of memory out of 3000000
- 11218 multiletter control sequences out of 15000+200000
- 39048 words of font info for 84 fonts, out of 3000000 for 9000
+ 7801 strings out of 493303
+ 116109 string characters out of 3128480
+ 211833 words of memory out of 3000000
+ 11220 multiletter control sequences out of 15000+200000
+ 37994 words of font info for 79 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 28i,8n,35p,409b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,8n,35p,295b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
 enc}<C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/chuprina/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/chuprina/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/chuprina/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on REworkshop_ReqQuality.pdf (2 pages, 84804 bytes).
+type1/urw/times/utmb8a.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/chuprina/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on REworkshop_ReqQuality.pdf (2 pages, 84133 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
