@@ -115,4 +115,34 @@ J.~Beatty and C.~Hokanson, ``Project value delivered. the true measure of
   requirements quality,'' The Magazine for RE Professionals from IREB, Tech.
   Rep., 2014.
 
+\bibitem{Verner:2005}
+\BIBentryALTinterwordspacing
+J.~M. Verner, K.~Cox, S.~J. Bleistein, and N.~Cerpa, ``Requirements engineering
+  and software project success: an industrial survey in australia and the
+  {U.S},'' \emph{Australasian J. of Inf. Systems}, vol.~13, no.~1, 2005.
+  [Online]. Available:
+  \url{http://journal.acs.org.au/index.php/ajis/article/view/73}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Noorwali:2015}
+R.~Ferrari, I.~Noorwali, and N.~H. Madhavji, ``Towards a theory on the
+  interaction between requirements engineering and systems architecting,'' in
+  \emph{2015 IEEE Fifth International Workshop on Empirical Requirements
+  Engineering (EmpiRE)}, Aug 2015, pp. 17--20.
+
+\bibitem{Basili:1981}
+\BIBentryALTinterwordspacing
+V.~R. Basili and D.~M. Weiss, ``Evaluation of a software requirements document
+  by analysis of change data,'' in \emph{Proceedings of the 5th International
+  Conference on Software Engineering}, ser. ICSE '81.\hskip 1em plus 0.5em
+  minus 0.4em\relax Piscataway, NJ, USA: IEEE Press, 1981, pp. 314--323.
+  [Online]. Available: \url{http://dl.acm.org/citation.cfm?id=800078.802544}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Antinyan:2016}
+V.~Antinyan, M.~Staron, A.~Sandberg, and J.~Hansson, ``A complexity measure for
+  textual requirements,'' in \emph{2016 Joint Conference of the International
+  Workshop on Software Measurement and the International Conference on Software
+  Process and Product Measurement (IWSM-MENSURA)}, Oct 2016, pp. 148--158.
+
 \end{thebibliography}

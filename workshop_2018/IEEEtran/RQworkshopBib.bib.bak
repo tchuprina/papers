@@ -236,4 +236,55 @@
   keywords  = {Application software;Companies;Computer industry;Cost function;Laboratories;Programming;Project management;Software development management;Software quality;Statistical analysis},
 }
 
+@InProceedings{Noorwali:2015,
+  author    = {R. Ferrari and I. Noorwali and N. H. Madhavji},
+  title     = {Towards a theory on the interaction between requirements engineering and systems architecting},
+  booktitle = {2015 IEEE Fifth International Workshop on Empirical Requirements Engineering (EmpiRE)},
+  year      = {2015},
+  pages     = {17-20},
+  month     = {Aug},
+  doi       = {10.1109/EmpiRE.2015.7431302},
+  keywords  = {formal specification;software architecture;requirements engineering;systems architecting;theory building;Buildings;Business;Computer architecture;Requirements engineering;Software;Training;Requirements engineering;emerging theory;empirical study;interaction;system architecture},
+}
+
+@Article{Verner:2005,
+  author    = {June M. Verner and Karl Cox and Steven J. Bleistein and Narciso Cerpa},
+  title     = {Requirements Engineering and Software Project Success: an industrial survey in Australia and the {U.S}},
+  journal   = {Australasian J. of Inf. Systems},
+  year      = {2005},
+  volume    = {13},
+  number    = {1},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl    = {https://dblp.org/rec/bib/journals/ajis/VernerCBC05},
+  timestamp = {Mon, 08 Jun 2015 17:11:08 +0200},
+  url       = {http://journal.acs.org.au/index.php/ajis/article/view/73},
+}
+
+@InProceedings{Basili:1981,
+  author    = {Basili, Victor R. and Weiss, David M.},
+  title     = {Evaluation of a Software Requirements Document by Analysis of Change Data},
+  booktitle = {Proceedings of the 5th International Conference on Software Engineering},
+  year      = {1981},
+  series    = {ICSE '81},
+  pages     = {314--323},
+  address   = {Piscataway, NJ, USA},
+  publisher = {IEEE Press},
+  acmid     = {802544},
+  isbn      = {0-89791-146-6},
+  location  = {San Diego, California, USA},
+  numpages  = {10},
+  url       = {http://dl.acm.org/citation.cfm?id=800078.802544},
+}
+
+@InProceedings{Antinyan:2016,
+  author    = {V. Antinyan and M. Staron and A. Sandberg and J. Hansson},
+  title     = {A Complexity Measure for Textual Requirements},
+  booktitle = {2016 Joint Conference of the International Workshop on Software Measurement and the International Conference on Software Process and Product Measurement (IWSM-MENSURA)},
+  year      = {2016},
+  pages     = {148-158},
+  month     = {Oct},
+  doi       = {10.1109/IWSM-Mensura.2016.030},
+  keywords  = {software architecture;text analysis;ambiguous patterns;automated identification;complexity measure;manual assessment values;measurement values;software design process;software development organization;software products;textual requirements;Automobiles;Companies;Complexity theory;Software;Software measurement;Standards organizations;automation;complexity;measure;quality;requirement},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

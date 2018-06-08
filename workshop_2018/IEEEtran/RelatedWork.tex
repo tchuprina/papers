@@ -3,21 +3,31 @@
 
 \subsection{What does ``quality'' mean?}
 
-Despite on multiple publications about requirements quality and its assessment, 
-the term ``quality'' is still subjective.~\cite{Mund:2017},~\cite{Femmer:2017}. 
+Despite multiple publications about requirements quality and its assessment, 
+the term ``quality'' is still subjective~\cite{Mund:2017},~\cite{Femmer:2017}. 
 Industry standards~\cite{ISO/IEC/IEEE:2011} specify characteristics and criteria, 
-which presumed effective for improving the quality e.g completeness, unambiguity and others. 
-Additionally, researchers provide several types of quality definition and methods for its assessment. 
-In example, Lamsweerde provides a defect-based checklist to inspect requirements for possible flaws 
+which presumed effective for improving requirements quality, e.g, completeness, unambiguity and others. 
+Additionally, the research community provided several types of quality definition and methods for its assessment. 
+For example, Lamsweerde provides a defect-based checklist to inspect requirements for possible flaws 
 and errors in ~\cite{Lamsweerde:2009}; Pohl proposes a framework defining dimensions of quality: 
-the specification dimension, the representation dimension, the agreement dimension~\cite{POHL:1994}. 
+the specification dimension, the representation dimension, the agreement dimension~\cite{POHL:1994}.
+This approach purports an uncertain assessment due to impreciseness of the considered attributes, 
+such as requirements adequacy or pertinence. Instead of such level of granularity for requirements 
+consideration, our method take into account a requirements artifact (RA) in general. 
+
 Another approach implies syntactic check of the requirements text for improving its comprehension, 
 correctness, ambiguity and other akin characteristics e.g.~\cite{Ferrari:2014},~\cite{Berry:2006}.
-All these metrics intend to intrinsic inspection of requirements. In comparison with them, activity-based 
-quality models shift their approach from inherent properties to a context of process, and represent 
-a meta quality model~\cite{Wagner:2012},~\cite{Femmer:2015}. Furthermore, the "quality question" also turns 
-to a consideration of how the requirements quality impacts to project success and the relation between 
-them in scientific surrounding~\cite{Emam:1995},~\cite{Kamata:2007}, so as among practitioners~\cite{BeattyHokanson:2014}.
+All these metrics apply intrinsic inspection of requirements and assess qualitatively the requirements' statement. 
+Oppositely to them, our metrics provide a quantitative analyze of a whole document with the requirements.
+
+In comparison with described above methods, activity-based quality models shift their approach from inherent properties 
+to the context of process, and propose a meta quality model~\cite{Wagner:2012},~\cite{Femmer:2015}. 
+Furthermore, the "quality question" also turns to a consideration of how the requirements quality impacts project success and the relation between 
+them in scientific community~\cite{Emam:1995},~\cite{Kamata:2007}, so as among practitioners~\cite{BeattyHokanson:2014}.
+In contrast to this approach, our metrics grant a relative simplicity level and provide a precision with cardinal number in assessment.
+
+%Pleiad 
+Chain of studies about relation between quality and project outcomes, ~\cite{Verner:2005},~\cite{Kamata:2007},~\cite{Noorwali:2015} triggers our research to the proposed metrics. Scientific papers investigating maturity of requirements~\cite{Basili:1981},~\cite{FARBEY:1990} and their complexity~\cite{Antinyan:2016} give a base for idea of transforming a relation between requirements quality and number of changes in requirements document into quantitative measurement.
 
 The presented in this paper metrics consider generally requirements artifact for its maturity and a process 
 of adjusting the requirements at RE and implementation phases, in a quantitative way, a posteriori.
