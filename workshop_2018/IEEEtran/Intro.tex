@@ -2,23 +2,26 @@
 \label{sec:Intro} 
 
 \subsection{Problem}
-The question about quality of requirements remains problematic~\cite{Fernandez2016}: 
-``How to measure the quality of requirements?'' is a subjective question.  
+Measuring the quality of requirements remains problematic~\cite{Fernandez2016} due to its subjectivity.
 There are only few quantitative metrics to measure the quality of requirements. 
-All of them are looking at intrinsic characteristic of requirements and, therefore, depend on their statement.
+All of them are looking at intrinsic characteristic of requirements, e.g., lack of syntactic defects 
+or conformity to qualitative attributes. Such approach makes them dependable on the requirements' statement and, 
+therefore, decreases an accuracy of the measurement. In other words, the clear baseline for the comparison of results 
+from several separate projects is vague. Assessment of same quality characteristics within different project don't assume equality in outcoming criteria.  
+
 
 \subsection{Contribution}
 We present various quantitative metrics for assessing the quality of requirements assuming a relation 
-between the requirements quality and changes of the requirements. Comparing with existing approaches, 
-discussed in section \autoref{sec:relatedwork}, our method considers a relation between quality of 
-requirements and the resulted product measuring number of changes and time-consumption during RE and 
-implementation phases. We consider the corrections in requirements document done within 
-requirements engineering (RE) and implementation stages~\cite{FARBEY:1990}, and their influence on the time 
+between the requirements quality and corrections of the requirements done within RE and system implementation work flow. 
+Comparing with existing approaches, discussed in \autoref{sec:relatedwork}, our method considers the quality of 
+requirements with respect to the process, measuring the number of changes and time-consumption during RE and 
+implementation phases. We consider the changes in requirements document done within 
+requirements engineering and implementation stages~\cite{FARBEY:1990}, and their influence on the time 
 for development process. The suggested metrics take into account a maturity of the requirements 
 and reflects its leverage on the product, resulting in a number from 0 (bad) - 1 (good) for a quality assessment.  
 A developed system, which has passed an acceptance test by a customer, is considered as a baseline 
 for the resulting product. Importantly, the proposed metrics are usable to assess the quality of requirements 
 only after project completion. 
 
-The presented approach can be considered for empirical studies. The presented metrics are planed for measuring 
-the quality of requirements in our current study regarding requirements categorization.
+The presented approach can be considered for empirical studies; and is in plan to employ in our study 
+for doctoral thesis regarding requirements categorization approach. The requirements quality with appliance of the requirements categorization approach will be measured by the proposed metrics; afterwards, the results will be compared with an outcome of the project without the requirements categorization approach.
