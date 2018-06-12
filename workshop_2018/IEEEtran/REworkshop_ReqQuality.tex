@@ -10,7 +10,7 @@
 %}
 %\makeatother
 
-
+\usepackage{multicol}
 
 % *** CITATION PACKAGES ***
 %
@@ -29,6 +29,10 @@
 \else
   
 \fi
+
+
+\usepackage{float}
+
 
 \usepackage[utf8]{inputenc}
 
@@ -79,7 +83,6 @@
 \newcommand\vincent[1]{\nb{Vincent}{\textcolor{green}{#1}}}
 
 \begin{document}
-
 \title{Quantitative Metrics for Requirements Quality a posteriori} 
 
 \author{
@@ -118,6 +121,7 @@ Therefore, this method is a good tool for empirical studies, even though not usa
 \input{Solution}
 \input{Conclusion}
 
+
 % no \IEEEPARstart
 
 
@@ -125,7 +129,7 @@ Therefore, this method is a good tool for empirical studies, even though not usa
 %The conclusion goes here.
 
 % references section
-
+\newpage
 \bibliographystyle{IEEEtran}
 \bibliography{RQworkshopBib}
 \end{document}

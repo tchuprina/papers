@@ -1,17 +1,26 @@
 \section{Metrics}
 \label{sec:Solution} 
 
-\begin{figure*}[!th]
+\begin{figure*}[!h]
 	\centering
-		\includegraphics[width=0.8\textwidth]{MetricsDiag.pdf}
-	\caption{Work flow of the }
+		\includegraphics[width=0.8\textwidth,height=2in]{MetricsDiag.pdf}
+	\caption{Requirements engineering and development processes}
 	\label{fig:Metrics_shot}
 \end{figure*}
 
+
+%\begin{figure*}[htbp]
+	%\centering
+		%\includegraphics[width=1.00\textwidth]{C:/Users/chuprina/Documents/PhD/Conferences/git/RE/workshop_2018/IEEEtran/pictures/Metrics.jpg}
+	%\caption{nbcmc}
+	%\label{fig:Metrics}
+%\end{figure*}
+
+
 In these metrics we consider a maturity of requirements as a characteristic of the quality.
 Every RE artifact (a document with requirements) has its index of maturity. The range of this index varies from 0 to 1: 0 means ``bad'' and 1 indicates ``good'' quality.
-The requirements quality presents by a maturity index: coefficient inferred from a number of RE process iterations (a certain amount of changes applied to requirements' document).
-\textit{The more mature requirements are: the less changes (RE iterations) RE artifact requires in sum; the shorter time for development process is needed; \textbf{thus, the better quality of such requirements; the higher index of the requirements maturity }(\autoref{eqn:maturity_ind}):}
+The requirements quality presents by a maturity index: coefficient inferred from a number of RE and development process's iterations (a certain amount of changes applied to requirements' document).
+The more mature requirements are, the less changes (RE iterations) RE artifact requires in sum, and the shorter time for development process is needed. \textsl{thus, the better quality of the requirements; the higher index of the requirements maturity} (\autoref{eqn:maturity_ind}):
   \begin{equation}\label{eqn:maturity_ind}
 \textrm{\textit{maturity index}} = \frac{1}{\mu(R_{j})}
 	\end{equation}
@@ -45,4 +54,3 @@ Consequently, to calculate the \textit{maturity index} of the requirements, the 
 %(here, along with requirements' maturity, we can also talk about such quality criterion as the requirements' comprehensibility);
 
 %$\mu_{4} = \displaystyle\sum_{j} (t_{j+1}-t_{j}\acute{} + p_{j}*(t_{j}\acute{} - t_{j}))$
-
