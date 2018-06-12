@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  11 JUN 2018 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  12 JUN 2018 17:00
 entering extended mode
 **./REworkshop_ReqQuality.tex
 (REworkshop_ReqQuality.tex
@@ -716,27 +716,23 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (REworkshop_ReqQuality.aux
-
-LaTeX Warning: Label `fig:Metrics_shot' multiply defined.
-
-)
+) (REworkshop_ReqQuality.aux)
 \openout1 = `REworkshop_ReqQuality.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
 
 -- Lines per column: 56 (exact).
 
@@ -770,7 +766,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 79.
+Package hyperref Info: Link coloring OFF on input line 81.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\namere
 f.sty"
@@ -782,61 +778,38 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 79.
-LaTeX Info: Redefining \pageref on input line 79.
-LaTeX Info: Redefining \nameref on input line 79.
+LaTeX Info: Redefining \ref on input line 81.
+LaTeX Info: Redefining \pageref on input line 81.
+LaTeX Info: Redefining \nameref on input line 81.
  (REworkshop_ReqQuality.out) (REworkshop_ReqQuality.out)
 \@outlinefile=\write3
 \openout3 = `REworkshop_ReqQuality.out'.
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 92.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 94.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.f
 d"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 94.
  (Intro.tex) (RelatedWork.tex [1{C:/Users/chuprina/AppData/Local/MiKTeX/2.9/pdf
 tex/config/pdftex.map}
 
 
 ]) (Solution.tex
-<C:/Users/chuprina/Documents/PhD/Conferences/git/RE/workshop_2018/IEEEtran/pict
-ures/Metrics_shot.pdf, id=80, 364.36125pt x 174.6525pt>
-File: C:/Users/chuprina/Documents/PhD/Conferences/git/RE/workshop_2018/IEEEtran
-/pictures/Metrics_shot.pdf Graphic file (type pdf)
-<use C:/Users/chuprina/Documents/PhD/Conferences/git/RE/workshop_2018/IEEEtran/
-pictures/Metrics_shot.pdf>
-Package pdftex.def Info: C:/Users/chuprina/Documents/PhD/Conferences/git/RE/wor
-kshop_2018/IEEEtran/pictures/Metrics_shot.pdf  used on input line 6.
-(pdftex.def)             Requested size: 464.39685pt x 222.61102pt.
-
-Overfull \hbox (212.39685pt too wide) in paragraph at lines 6--7
- [][] 
- []
-
-<C:/Users/chuprina/Documents/PhD/Conferences/git/RE/workshop_2018/IEEEtran/pict
-ures/MetricsDiag.pdf, id=81, 572.1375pt x 175.65625pt>
-File: C:/Users/chuprina/Documents/PhD/Conferences/git/RE/workshop_2018/IEEEtran
-/pictures/MetricsDiag.pdf Graphic file (type pdf)
-<use C:/Users/chuprina/Documents/PhD/Conferences/git/RE/workshop_2018/IEEEtran/
-pictures/MetricsDiag.pdf>
-Package pdftex.def Info: C:/Users/chuprina/Documents/PhD/Conferences/git/RE/wor
-kshop_2018/IEEEtran/pictures/MetricsDiag.pdf  used on input line 13.
-(pdftex.def)             Requested size: 464.39685pt x 142.57828pt.
-
-Overfull \hbox (212.39685pt too wide) in paragraph at lines 13--14
- [][] 
- []
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+<./pictures/MetricsDiag.pdf, id=80, 572.1375pt x 175.65625pt>
+File: ./pictures/MetricsDiag.pdf Graphic file (type pdf)
+<use ./pictures/MetricsDiag.pdf>
+Package pdftex.def Info: ./pictures/MetricsDiag.pdf  used on input line 6.
+(pdftex.def)             Requested size: 412.80157pt x 126.73773pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 15.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+LaTeX Font Info:    Try loading font information for U+msb on input line 15.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 d"
@@ -852,19 +825,7 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <7> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 4.
-) (REworkshop_ReqQuality.bbl [2 <C:/Users/chuprina/Documents/PhD/Conferences/gi
-t/RE/workshop_2018/IEEEtran/pictures/Metrics_shot.pdf
-
-pdfTeX warning: pdflatex.exe (file C:/Users/chuprina/Documents/PhD/Conferences/
-git/RE/workshop_2018/IEEEtran/pictures/Metrics_shot.pdf): PDF inclusion: invali
-d other resource which is no dict (key 'ProcSets', type <array>); ignored.
-> <C:/Users/chuprina/Documents/PhD/Conferences/git/RE/workshop_2018/IEEEtran/pi
-ctures/MetricsDiag.pdf
-
-pdfTeX warning: pdflatex.exe (file C:/Users/chuprina/Documents/PhD/Conferences/
-git/RE/workshop_2018/IEEEtran/pictures/MetricsDiag.pdf): PDF inclusion: invalid
- other resource which is no dict (key 'ProcSets', type <array>); ignored.
->])
+) (REworkshop_ReqQuality.bbl [2])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -876,30 +837,35 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
 [3
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+ <./pictures/MetricsDiag.pdf
+
+pdfTeX warning: pdflatex.exe (file ./pictures/MetricsDiag.pdf): PDF inclusion: 
+invalid other resource which is no dict (key 'ProcSets', type <array>); ignored
+.
+>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
  (REworkshop_ReqQuality.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `REworkshop_ReqQuality.out' has not changed.
 (rerunfilecheck)             Checksum: A81C79AC7C541584307E2C3F8B9C8C4F;428.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 7887 strings out of 493303
- 118140 string characters out of 3128480
- 213053 words of memory out of 3000000
+ 7890 strings out of 493303
+ 117417 string characters out of 3128480
+ 216087 words of memory out of 3000000
  11291 multiletter control sequences out of 15000+200000
- 41217 words of font info for 87 fonts, out of 3000000 for 9000
+ 42313 words of font info for 88 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 28i,8n,35p,552b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,8n,35p,552b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
 enc}<C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmex10.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/
@@ -917,9 +883,9 @@ na/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users
 C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8
 a.pfb><C:/Users/chuprina/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on REworkshop_ReqQuality.pdf (3 pages, 270872 bytes).
+Output written on REworkshop_ReqQuality.pdf (3 pages, 212318 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
