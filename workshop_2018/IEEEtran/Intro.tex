@@ -2,26 +2,32 @@
 \label{sec:Intro} 
 
 \subsection{Problem}
-Measuring the quality of requirements remains problematic~\cite{Fernandez2016} due to its subjectivity.
-There are only few quantitative metrics to measure the quality of requirements. 
-All of them are looking at intrinsic characteristic of requirements, e.g., lack of syntactic defects 
-or conformity to qualitative attributes. Such approach makes them dependable on the requirements' statement and, 
-therefore, decreases an accuracy of the measurement. In other words, the clear baseline for the comparison of results 
-from several separate projects is vague. Assessment of same quality characteristics within different project don't assume equality in outcoming criteria.  
+Measuring the quality of requirements remains problematic~\cite{Fernandez2016},~\cite{Mund:2017} 
+due to subjectivity of quality definition. There are only few quantitative metrics to measure the quality of requirements. 
+All of them are looking at intrinsic characteristic of requirements, e.g., whether the requirement’s statement 
+includes any syntactic defects or conforms to qualitative attributes such as, unambiguity, completeness or consistency. 
+Such approach depends on the requirements' statement and, therefore, decreases an accuracy of the measurement. 
+In other words, the clear baseline for the comparison of the requirements' quality is vague. 
+Thereby, proposing the quantitative metrics for measuring requirements' quality, we attempt 
+to solve the problem with the subjective evaluation of quality and provide a uniform and more precise measure. 
+%Thereby, the results from evaluation of the requirements' quality applying same techniques, but within different companies may vary even contradict to each other.
+%Evaluating same quality characteristics of the similar requirements within different projects do not assume equality in outcoming criteria.  
 
 
 \subsection{Contribution}
 We present various quantitative metrics for assessing the quality of requirements assuming a relation 
-between the requirements quality and corrections of the requirements done within RE and system implementation work flow. 
+between the requirements quality and the number of requirements' corrections to be done within RE and system implementation workflow. 
 Comparing with existing approaches, discussed in \autoref{sec:relatedwork}, our method considers the quality of 
 requirements with respect to the process, measuring the number of changes and time-consumption during RE and 
 implementation phases. We consider the changes in requirements document done within 
-requirements engineering and implementation stages~\cite{FARBEY:1990}, and their influence on the time 
-for development process. The suggested metrics take into account a maturity of the requirements 
-and reflects its leverage on the product, resulting in a number from 0 (bad) - 1 (good) for a quality assessment.  
+requirements engineering and implementation stages~\cite{FARBEY:1990}, and their influence on the development time, 
+instead of analyzing the internal characteristics of the requirements' statements. 
+The suggested metrics take into account the maturity of the requirements, 
+resulting in a number from 0 (bad) - 1 (good) for a quality assessment.  
 A developed system, which has passed an acceptance test by a customer, is considered as a baseline 
 for the resulting product. Importantly, the proposed metrics are usable to assess the quality of requirements 
-only after project completion. 
+only after project completion, since this quality is based on the final requirements.
 
-The presented approach can be considered for empirical studies; and is in plan to employ in our study 
-for doctoral thesis regarding requirements categorization approach. The requirements quality with appliance of the requirements categorization approach will be measured by the proposed metrics; afterwards, the results will be compared with an outcome of the project without the requirements categorization approach.
+The presented approach can be considered for empirical studies; we plan to employ it in our study 
+for doctoral thesis to analyze an influence of requirements' categorization on quality aspect. 
+% The requirements quality with appliance of the requirements categorization approach will be measured by the proposed metrics; afterwards, the results will be compared with an outcome of the project without the requirements categorization approach.

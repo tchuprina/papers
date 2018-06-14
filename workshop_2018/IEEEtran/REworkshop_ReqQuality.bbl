@@ -33,6 +33,11 @@ D.~M. Fern{\'{a}}ndez, S.~Wagner, M.~Kalinowski, M.~Felderer, P.~Mafra,
   \url{http://arxiv.org/abs/1611.10288}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Mund:2017}
+J.~Mund, ``Measurement-based quality assessment of requirements specifications
+  for software-intensive systems,'' Ph.D. dissertation, Technical University
+  Munich, 2017.
+
 \bibitem{FARBEY:1990}
 \BIBentryALTinterwordspacing
 B.~Farbey, ``Software quality metrics: considerations about requirements and
@@ -41,11 +46,6 @@ B.~Farbey, ``Software quality metrics: considerations about requirements and
   Assurance. [Online]. Available:
   \url{http://www.sciencedirect.com/science/article/pii/095058499090047U}
 \BIBentrySTDinterwordspacing
-
-\bibitem{Mund:2017}
-J.~Mund, ``Measurement-based quality assessment of requirements specifications
-  for software-intensive systems,'' Ph.D. dissertation, Technical University
-  Munich, 2017.
 
 \bibitem{Femmer:2017}
 H.~Femmer, ``Requirements engineering artifact quality: Definition and
