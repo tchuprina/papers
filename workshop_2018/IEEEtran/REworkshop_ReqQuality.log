@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  15 JUN 2018 11:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  15 JUN 2018 13:49
 entering extended mode
 **./REworkshop_ReqQuality.tex
 (REworkshop_ReqQuality.tex
@@ -868,19 +868,19 @@ Overfull \hbox (264.00151pt too wide) in paragraph at lines 33--34
 
 ])
 (Solution.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 d"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
@@ -912,10 +912,10 @@ Package rerunfilecheck Info: File `REworkshop_ReqQuality.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 8006 strings out of 493303
- 119185 string characters out of 3128480
- 223073 words of memory out of 3000000
- 11404 multiletter control sequences out of 15000+200000
+ 8004 strings out of 493303
+ 119164 string characters out of 3128480
+ 223040 words of memory out of 3000000
+ 11403 multiletter control sequences out of 15000+200000
  40690 words of font info for 86 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  28i,8n,35p,847b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -934,9 +934,9 @@ s/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/chuprina/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on REworkshop_ReqQuality.pdf (3 pages, 207062 bytes).
+Output written on REworkshop_ReqQuality.pdf (3 pages, 206898 bytes).
 PDF statistics:
  180 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
+ 34 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
