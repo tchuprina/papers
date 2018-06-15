@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  14 JUN 2018 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  15 JUN 2018 11:04
 entering extended mode
 **./REworkshop_ReqQuality.tex
 (REworkshop_ReqQuality.tex
@@ -852,32 +852,44 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
- (Intro.tex) (RelatedWork.tex [1{C:/Users/chuprina/AppData/Local/MiKTeX/2.9/pdf
-tex/config/pdftex.map}
-
-
-]) (Solution.tex
-<./pictures/MetricsDiag.pdf, id=82, 572.1375pt x 175.65625pt>
+ (Intro.tex) (RelatedWork.tex
+<./pictures/MetricsDiag.pdf, id=51, 572.1375pt x 175.65625pt>
 File: ./pictures/MetricsDiag.pdf Graphic file (type pdf)
 <use ./pictures/MetricsDiag.pdf>
-Package pdftex.def Info: ./pictures/MetricsDiag.pdf  used on input line 6.
-(pdftex.def)             Requested size: 412.80296pt x 144.55098pt.
+Package pdftex.def Info: ./pictures/MetricsDiag.pdf  used on input line 33.
+(pdftex.def)             Requested size: 516.00151pt x 144.55098pt.
+
+Overfull \hbox (264.00151pt too wide) in paragraph at lines 33--34
+ [][] 
+ []
+
+[1{C:/Users/chuprina/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 24.
+])
+(Solution.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 24.
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 d"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) (Conclusion.tex) [2] (REworkshop_ReqQuality.bbl)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+) (Conclusion.tex [2 <./pictures/MetricsDiag.pdf
+
+pdfTeX warning: pdflatex.exe (file ./pictures/MetricsDiag.pdf): PDF inclusion: 
+invalid other resource which is no dict (key 'ProcSets', type <array>); ignored
+.
+>]) (REworkshop_ReqQuality.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -890,12 +902,7 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
-[3 <./pictures/MetricsDiag.pdf
-
-pdfTeX warning: pdflatex.exe (file ./pictures/MetricsDiag.pdf): PDF inclusion: 
-invalid other resource which is no dict (key 'ProcSets', type <array>); ignored
-.
->]
+[3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
  (REworkshop_ReqQuality.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
@@ -905,10 +912,10 @@ Package rerunfilecheck Info: File `REworkshop_ReqQuality.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 8005 strings out of 493303
- 119175 string characters out of 3128480
- 220073 words of memory out of 3000000
- 11403 multiletter control sequences out of 15000+200000
+ 8006 strings out of 493303
+ 119185 string characters out of 3128480
+ 223073 words of memory out of 3000000
+ 11404 multiletter control sequences out of 15000+200000
  40690 words of font info for 86 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  28i,8n,35p,847b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -927,7 +934,7 @@ s/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/chuprina/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on REworkshop_ReqQuality.pdf (3 pages, 207038 bytes).
+Output written on REworkshop_ReqQuality.pdf (3 pages, 207062 bytes).
 PDF statistics:
  180 PDF objects out of 1000 (max. 8388607)
  35 named destinations out of 1000 (max. 500000)
