@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  15 JUN 2018 13:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.2)  15 JUN 2018 17:48
 entering extended mode
 **./REworkshop_ReqQuality.tex
 (REworkshop_ReqQuality.tex
@@ -853,13 +853,13 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
  (Intro.tex) (RelatedWork.tex
-<./pictures/MetricsDiag.pdf, id=51, 572.1375pt x 175.65625pt>
+<./pictures/MetricsDiag.pdf, id=54, 572.1375pt x 175.65625pt>
 File: ./pictures/MetricsDiag.pdf Graphic file (type pdf)
 <use ./pictures/MetricsDiag.pdf>
-Package pdftex.def Info: ./pictures/MetricsDiag.pdf  used on input line 33.
+Package pdftex.def Info: ./pictures/MetricsDiag.pdf  used on input line 27.
 (pdftex.def)             Requested size: 516.00151pt x 144.55098pt.
 
-Overfull \hbox (264.00151pt too wide) in paragraph at lines 33--34
+Overfull \hbox (264.00151pt too wide) in paragraph at lines 27--28
  [][] 
  []
 
@@ -868,19 +868,19 @@ Overfull \hbox (264.00151pt too wide) in paragraph at lines 33--34
 
 ])
 (Solution.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 14.
+LaTeX Font Info:    Try loading font information for U+msa on input line 15.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.f
 d"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+LaTeX Font Info:    Try loading font information for U+msb on input line 15.
 
 ("C:\Users\chuprina\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
 d"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
@@ -908,14 +908,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
 Package rerunfilecheck Info: File `REworkshop_ReqQuality.out' has not changed.
-(rerunfilecheck)             Checksum: A81C79AC7C541584307E2C3F8B9C8C4F;428.
+(rerunfilecheck)             Checksum: F0F2186D9B38120D782628750560DD0B;599.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 8004 strings out of 493303
- 119164 string characters out of 3128480
- 223040 words of memory out of 3000000
- 11403 multiletter control sequences out of 15000+200000
+ 8008 strings out of 493303
+ 119224 string characters out of 3128480
+ 222133 words of memory out of 3000000
+ 11405 multiletter control sequences out of 15000+200000
  40690 words of font info for 86 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  28i,8n,35p,847b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -934,9 +934,9 @@ s/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/chuprina/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/chuprina
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on REworkshop_ReqQuality.pdf (3 pages, 206898 bytes).
+Output written on REworkshop_ReqQuality.pdf (3 pages, 208536 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 188 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
